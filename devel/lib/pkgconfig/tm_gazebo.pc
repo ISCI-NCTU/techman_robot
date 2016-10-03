@@ -1,0 +1,8 @@
+prefix=/home/schwarmcyc/Documents/techman_robot/devel
+
+Name: tm_gazebo
+Description: Description of tm_gazebo
+Version: 1.1.5
+Cflags: 
+Libs: -L/home/schwarmcyc/Documents/techman_robot/devel/lib 
+Requires: 

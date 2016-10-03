@@ -1,0 +1,8 @@
+prefix=/home/schwarmcyc/Documents/techman_robot/install
+
+Name: tm_msgs
+Description: Description of tm_msgs
+Version: 0.0.0
+Cflags: -I/home/schwarmcyc/Documents/techman_robot/install/include
+Libs: -L/home/schwarmcyc/Documents/techman_robot/install/lib 
+Requires: message_runtime std_msgs

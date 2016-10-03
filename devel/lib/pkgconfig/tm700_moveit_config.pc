@@ -1,0 +1,8 @@
+prefix=/home/schwarmcyc/Documents/techman_robot/devel
+
+Name: tm700_moveit_config
+Description: Description of tm700_moveit_config
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/schwarmcyc/Documents/techman_robot/devel/lib 
+Requires: 

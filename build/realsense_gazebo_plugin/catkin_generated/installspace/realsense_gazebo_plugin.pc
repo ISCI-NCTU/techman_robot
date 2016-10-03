@@ -1,0 +1,8 @@
+prefix=/home/schwarmcyc/Documents/techman_robot/install
+
+Name: realsense_gazebo_plugin
+Description: Description of realsense_gazebo_plugin
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/schwarmcyc/Documents/techman_robot/install/lib 
+Requires: roscpp gazebo_ros
